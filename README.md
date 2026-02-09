@@ -1,13 +1,13 @@
 # Voucher-Devices
 
-This Devices is to allow Customer Buy Voucher instead recharge it directly
+Estos dispositivos permiten que el cliente compre un voucher en lugar de recargarlo directamente.
 
-1. Create Internet Plan
-2. Choose Voucher as devices
-3. Configure other just like the voucher you want to sell, Plan Validity will be ignored, just put 1
-4. Set the price, same as the Internet plan price or Different.
-5. Save it
-6. Set Expired plan to Internet Plan for Voucher
-7. Save it again
+1. Crear un Plan de Internet
+2. Elegir Voucher como dispositivo
+3. Configurar el resto igual que el voucher que deseas vender; la validez del plan será ignorada, solo coloca 1
+4. Establecer el precio, igual al precio del plan de Internet o diferente
+5. Guardar
+6. Configurar el Plan expirado como el Plan de Internet para el voucher
+7. Guardar nuevamente
 
-Now Customer can buy voucher and send to their Inbox
+Ahora el cliente puede comprar el voucher y enviarlo a su Bandeja de entrada
